@@ -1,4 +1,4 @@
-# How to build a high-performance self in the age of AI - codify yourself!*
+# How to build a high-performance self in the age of AI*
 
 This talk updates my version of 
 - Covey's 7 Habits - https://www.franklincovey.com/the-7-habits/
