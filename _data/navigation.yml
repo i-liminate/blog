@@ -7,6 +7,6 @@ main:
   # - title: "Sample Posts"
   #   url: /year-archive/
   - title: "Sample Collections"
-    url: /collection-archive/
+    url: /_posts/
   #- title: "Sitemap"
   #  url: /sitemap/
