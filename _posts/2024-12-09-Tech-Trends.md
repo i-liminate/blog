@@ -49,6 +49,7 @@ Modern software architecture continues to evolve around microservices, with a fo
 - Self-service infrastructure
 - Standardized toolchains
 - Improved developer productivity
+
 ## 9. Blockchain and Decentralized Systems
 - Distributed ledger technologies
 - Smart contract architectures
